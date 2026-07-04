@@ -1,0 +1,72 @@
+    Atividade 3 - Criação de prompt profissional 
+Objetico da atividade: Aplicar o framework COSTAR.
+Situação: Uma escola deseja divulgar cursos de tecnologia.
+
+Prompt: Contexto: Uma escola deseja divulgar cursos de tecnologia. 
+Objetivo: criar uma campanha de divulgação
+Estilo: Educativo.
+Tom: Linguagem simples.
+Audiência: voltado para jovens.
+Formato da resposta: texto para redes sociais 
+
+
+Resposta IA: 
+
+🚀💻 Quer entrar no mundo da tecnologia? Seu futuro pode começar aqui!
+
+A escola está com novos cursos pensados especialmente para jovens que querem aprender na prática e se preparar para o mercado de trabalho.
+
+Você vai poder aprender coisas como:
+👨‍💻 Programação
+📊 Análise de dados
+🌐 Desenvolvimento de sites e aplicativos
+🤖 Noções de inteligência artificial
+
+Não precisa ter experiência, só vontade de aprender!
+
+✨ A tecnologia está em todo lugar — e quem aprende primeiro, sai na frente.
+
+📍 Inscrições abertas
+📚 Vagas limitadas
+
+💬 Bora começar a construir seu futuro hoje?
+-----------------------------------------------------------------------------
+
+
+    Atividade 4 - Avaliação crítica
+Objetivo da atividade: Desenvolver pensamento crítico sobre prompts. 
+
+Perguntas
+1. Qual estrutura gera respostas mais completas?
+2. Em quais situações um prompt simples é suficiente?
+3. Quando é melhor utilizar COSTAR?
+
+Respostas: 
+1. Os prompts que possuem estruturas mais completas e  detalhadas gerarão respostas melhores, pois introduz na IA informações relevantes sobre o assunto. 
+2. Os prompts mais simples são suficientes quando o público é iniciante, para consultas rápidas e cotidianas.
+3. É melhor aproveitado quando voltado para negócios, treinamentos coorporativos e cursos de tecnologia.
+
+    Atividade desafio - plano de marketing
+prompt: Contexto: Uma pessoa começará a vender bolos e doces na internet . 
+Objetivo: criar uma campanha de divulgação e atrair clientes novos e fiéis
+Estilo: comunicativo . 
+Tom: Linguagem simples . 
+Audiência: Público jovem apaixonados por doces . 
+Formato da resposta: texto para redes sociais
+Resposta IA: 🍰✨ Chegou a hora de adoçar o seu dia!
+
+Se você é daqueles que não resiste a um doce, então presta atenção nisso 👇
+
+Agora tem bolos e doces caseiros feitos com muito carinho, sabor e aquele toque especial que só comida feita à mão tem 💛
+
+🎂 Bolos fofinhos e recheados
+🍫 Doces irresistíveis
+🍓 Sabores fresquinhos e feitos na hora
+
+Perfeito pra matar aquela vontade de doce, comemorar momentos especiais ou simplesmente deixar o dia melhor 😋
+
+📲 Faça seu pedido pelo direct
+🚚 Entregas rápidas na região
+
+💬 Já escolheu seu favorito ou ainda vai querer provar todos?
+
